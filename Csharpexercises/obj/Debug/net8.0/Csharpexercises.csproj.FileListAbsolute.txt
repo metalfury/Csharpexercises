@@ -1,0 +1,14 @@
+C:\Users\merto\OneDrive\Belgeler\Csharpexercises\Csharpexercises\bin\Debug\net8.0\Csharpexercises.exe
+C:\Users\merto\OneDrive\Belgeler\Csharpexercises\Csharpexercises\bin\Debug\net8.0\Csharpexercises.deps.json
+C:\Users\merto\OneDrive\Belgeler\Csharpexercises\Csharpexercises\bin\Debug\net8.0\Csharpexercises.runtimeconfig.json
+C:\Users\merto\OneDrive\Belgeler\Csharpexercises\Csharpexercises\bin\Debug\net8.0\Csharpexercises.dll
+C:\Users\merto\OneDrive\Belgeler\Csharpexercises\Csharpexercises\bin\Debug\net8.0\Csharpexercises.pdb
+C:\Users\merto\OneDrive\Belgeler\Csharpexercises\Csharpexercises\obj\Debug\net8.0\Csharpexercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merto\OneDrive\Belgeler\Csharpexercises\Csharpexercises\obj\Debug\net8.0\Csharpexercises.AssemblyInfoInputs.cache
+C:\Users\merto\OneDrive\Belgeler\Csharpexercises\Csharpexercises\obj\Debug\net8.0\Csharpexercises.AssemblyInfo.cs
+C:\Users\merto\OneDrive\Belgeler\Csharpexercises\Csharpexercises\obj\Debug\net8.0\Csharpexercises.csproj.CoreCompileInputs.cache
+C:\Users\merto\OneDrive\Belgeler\Csharpexercises\Csharpexercises\obj\Debug\net8.0\Csharpexercises.dll
+C:\Users\merto\OneDrive\Belgeler\Csharpexercises\Csharpexercises\obj\Debug\net8.0\refint\Csharpexercises.dll
+C:\Users\merto\OneDrive\Belgeler\Csharpexercises\Csharpexercises\obj\Debug\net8.0\Csharpexercises.pdb
+C:\Users\merto\OneDrive\Belgeler\Csharpexercises\Csharpexercises\obj\Debug\net8.0\Csharpexercises.genruntimeconfig.cache
+C:\Users\merto\OneDrive\Belgeler\Csharpexercises\Csharpexercises\obj\Debug\net8.0\ref\Csharpexercises.dll

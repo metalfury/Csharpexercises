@@ -1,2 +1,4 @@
-*This project contains my notes for the "Console Programming with C#" section of "TOBETO - Istanbul Kodluyor" course I attended.
-*Some code blocks are generated automatically by "Github Copilot". 
+# Console Programming with C#, Istanbul Kodluyor
+
+- This repository contains my notes for the course I attended.
+- Some code blocks are generated automatically by "Github Copilot". 
